@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ScrollView_Rizki Alpari_1911500118</string>
+    <string name="Judul">Sejarah Software</string>
+    <string name="Isi">Pada tahun 1950 , perkembangan perangkat lunak tidak terlepas dari industri perangkat lunak itu sendiri. Industri perangkat lunak mulai berkembang. Perkembangan software atau perangkat lunak tidak semulus yang kita bayangkan, industri-industri perangkat lunak saat itu pada awal perkembangannya banyak menemui permasalahan. Perkembangan software atau perangkat lunak dapat dikelompokkan menjadi era, yaitu:
+
+Era Pemula
+Bahwasanya sejarah software mencatat pada era pemula ini software merupakan sambungan-sambungan kabel ke antarbagian dalam komputer. Pengguna komputer waktu itu masih di lakukan secara manual, yaitu berarti berupa program untuk sebuah mesin dengan tujuan tertentu.
+
+Ciri khas software dari era ini adalah software dibuat menyatu dengan perangkat kerasnya. Proses yang dilakukan software pada komputer yaitu berupa baris instruksi yang diproses secara berurutan.
+Era Stabil
+User komputer semakin populer di era ini, Perusahaan software pun mulai banyak bermunculan, dan pada era ini software telah mengalami kemajuan yaitu telah mampu menjalankan beberapa fungsi. Baris perintah software mampu dikerjakan secara bersamaan oleh komputer, sehingga software pada saat itu telah menjadi sebuah produk. Pada era stabil, software telah mengenal sistem Basis Data.
+
+Era Mikro
+Seiring dengan perkembangan penggunaan komputer berbasis PC dan jaringan komputer di era mikro, software juga ikut mengalami perkembangan guna memenuhi kebutuhan perseorangan atau individu.
+
+Pada era mikro, software mulai dibagi menjadi dua macam, yaitu software yang bekerja sebagai sistem dan software yang dapat digunakan secara langsung oleh pengguna untuk suatu kebutuhan tertentu.
+Era Modern
+Era modern adalah era yang kita alami saat ini, di era ini software sudah sangat berkembang dengan pesat dan sudah dapat di gunakan untuk perangkat keras sepertidalam perangkat mobile,TV,oven,hingga AC. Yang lebih hebat dan canggihnya lagi semua perangkat tersebut kini mulai memliki kemampuan untuk saling terhubung. Contohnya kita bisa mengontrol mesin cuci menggunakan smartphone, atau mengontrol TV dengan smartphone dan lain sebagainya.</string>
+</resources>
